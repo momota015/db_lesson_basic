@@ -80,7 +80,7 @@ ORDER BY age DESC;
 -- ORDER BY
 --   `created_at`;
 
--- peopleテーブルからdepartment_idが1の人の、
+-- peopleテーブルからカラムdepartment_idが1のレコードの、
 -- 名前、Eメール、年齢を作成された順に表示させる。
 
 
